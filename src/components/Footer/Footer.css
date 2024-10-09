@@ -1,0 +1,13 @@
+.wdim{
+    width: 12%;
+}
+
+@media (max-width: 780px) {
+
+   
+
+    .wdim {
+        width: 36% !important;
+    }
+
+}

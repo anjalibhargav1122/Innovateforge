@@ -1,0 +1,63 @@
+.bg-con {
+    background-color: #00A4A6;
+}
+
+.ptx {
+    font-family: 'gdsherpa', Helvetica, Arial, sans-serif;
+}
+
+.fsz {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.ctx {
+    color: #00A4A6;
+    font-size: 0.8rem;
+}
+
+.hov:hover {
+    text-decoration: underline !important;
+}
+
+.cbx {
+    width: 25%;
+    height: 25%;
+    margin-right: 0.5rem;
+}
+
+.cen {
+    align-items: end;
+}
+
+.pos {
+    margin-top: -6%;
+}
+
+@media (max-width: 780px) {
+
+
+    .mtb {
+        margin-top: 1rem !important;
+    }
+
+    .cbx {
+        width: 40% !important;
+        height: 80% !important;
+        margin-right: 0px !important;
+    }
+
+    .cen {
+        align-items: center !important;
+        margin-top: 0.7rem !important;
+    }
+
+    .pos {
+        margin-top: -15% !important;
+    }
+
+    .mtc {
+        padding-top: 0.8rem;
+    }
+
+}
